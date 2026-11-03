@@ -1,0 +1,43 @@
+In this season 1, it's explained all about HTML for beginners.
+
+. WHAT YOU'LL GET IN THIS COURSE
+Visão geral da proposta do curso: aprender desenvolvimento web de forma progressiva, combinando fundamentos, prática e projetos. A ideia é construir conhecimento passo a passo e aplicar o que foi aprendido.
+
+2. DOWNLOAD THE COURSE SYLLABUS
+O syllabus funciona como um mapa do curso. Consultá-lo ajuda a entender a sequência dos assuntos, planejar os estudos e acompanhar o progresso.
+
+3. DOWNLOAD THE 12 RULES TO LEARN TO CODE eBOOK
+Material complementar sobre hábitos e estratégias para aprender programação. Como princípio geral, aprender a programar exige prática ativa, consistência, experimentação e disposição para lidar com erros.
+
+4. DOWNLOAD THE REQUIRED SOFTWARE
+Preparação do ambiente de desenvolvimento. Em geral, isso envolve instalar e configurar ferramentas necessárias para acompanhar as atividades, como editor de código e navegador. Confira a lista oficial de requisitos do curso para saber exatamente o que instalar.
+
+5. HOW DOES THE INTERNET ACTUALLY WORK?
+A internet é uma rede de redes que permite que dispositivos se comuniquem usando protocolos. Quando acessamos um serviço, dados trafegam entre cliente e servidor por meio da infraestrutura de rede. Conceitos importantes para estudar: IP, DNS, roteamento, TCP e HTTPS.
+
+6. HOW DO WEBSITES ACTUALLY WORK?
+Em uma navegação típica, o navegador (cliente) faz uma requisição a um servidor, que devolve uma resposta — por exemplo, arquivos HTML, CSS, JavaScript ou dados. O navegador interpreta esses recursos e apresenta a página. Sites também podem depender de back-end, APIs e bancos de dados.
+
+7. HOW TO GET THE MOST OUT OF THE COURSE
+Estratégias gerais para aproveitar um curso prático:
+- Programar junto, em vez de apenas assistir.
+- Pausar, testar e modificar os exemplos.
+- Fazer os exercícios por conta própria.
+- Revisar conceitos e registrar dúvidas.
+- Manter uma rotina consistente e avançar gradualmente.
+
+8. HOW TO GET HELP WHEN YOU'RE STUCK
+Quando surgir um problema:
+- Leia a mensagem de erro com atenção.
+- Reproduza o problema e reduza o exemplo ao mínimo.
+- Confira nomes, sintaxe, caminhos e configurações.
+- Pesquise a mensagem de erro e consulte a documentação.
+- Ao pedir ajuda, compartilhe o contexto, o comportamento esperado, o resultado obtido e o trecho relevante do código.
+- Evite publicar senhas, tokens ou outras informações privadas.
+
+9. PATHFINDER
+Aula final da seção, indicada como uma atividade/recurso de orientação. Use-a para conferir o caminho de aprendizagem proposto e se familiarizar com a organização do curso. O significado e as instruções específicas do Pathfinder devem ser confirmados no próprio material da aula.
+
+CHECKPOINT
+[x] Section 1 — Front-End Web Development
+Próximo passo: iniciar a Section 2 e atualizar o progresso após concluir as aulas/exercícios.
